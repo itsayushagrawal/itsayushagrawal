@@ -15,7 +15,7 @@
 - **LinkedIn:** www.linkedin.com/in/ayush-agrawal-541a44259
 - **Email:**
   - 22uec029@lnmiit.ac.in
-  - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;agaayush15@gmail.com
+  - agaayush15@gmail.com
 
 ## 👩‍💻 Let's Code Together!
 - Open to collaboration, ideas, and tech discussions.

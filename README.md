@@ -16,7 +16,7 @@
 
 ## 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/itsayushagrawal/)
-- [Email](agaayush15@gmail.com)
+- [Email](mailto:agaayush15@gmail.com)
 
 ## 👩‍💻 Let's Code Together!
 - Open to collaboration, ideas, and tech discussions.

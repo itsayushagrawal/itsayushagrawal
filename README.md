@@ -4,8 +4,11 @@
 - 4th year student at LNMIIT, pursuing B.Tech in Electronics and Communication Engineering.
 
 ## 💻 What I Know
-- **Languages:** Basics of C.
-- **DS & Algo:** Exploring data structures and algorithms using C.
+- **Languages:** C
+- **Microcontrollers:** Arduino, ESP, Tiva, STM32
+- **Software:** Proteus, Arduino IDE, Code Composer Studio
+- **Communication Protocols:** UART, SPI, I2C
+- **Equipments:** Multimeter, DSO, Power Supply, Logic Analyzer
 
 ## 🚀 Current Adventures
 - Learning Embedded Software Development

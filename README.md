@@ -15,10 +15,8 @@
 - Excited about creating user-friendly applications.
 
 ## 🌐 Connect With Me
-- **LinkedIn:** www.linkedin.com/in/ayush-agrawal-541a44259
-- **Email:**
-  - 22uec029@lnmiit.ac.in
-  - agaayush15@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/itsayushagrawal/)
+- [Email](agaayush15@gmail.com)
 
 ## 👩‍💻 Let's Code Together!
 - Open to collaboration, ideas, and tech discussions.
